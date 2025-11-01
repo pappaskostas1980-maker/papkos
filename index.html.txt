@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Η πρώτη μου ιστοσελίδα</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Καλωσήρθατε στην ιστοσελίδα μου!</h1>
+        <nav>
+            <a href="#">Αρχική</a> |
+            <a href="#">Σχετικά</a> |
+            <a href="#">Επικοινωνία</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Σχετικά με εμένα</h2>
+            <p>Αυτή είναι η πρώτη μου απλή ιστοσελίδα.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Το Όνομά σου</p>
+    </footer>
+</body>
+</html>
